@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukaz\\source\\repos\\DS\\DS.csproj": {}
+    "C:\\Users\\Lukaz\\Documents\\GitHub\\LinkedList\\LinkedList\\DS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukaz\\source\\repos\\DS\\DS.csproj": {
+    "C:\\Users\\Lukaz\\Documents\\GitHub\\LinkedList\\LinkedList\\DS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukaz\\source\\repos\\DS\\DS.csproj",
+        "projectUniqueName": "C:\\Users\\Lukaz\\Documents\\GitHub\\LinkedList\\LinkedList\\DS.csproj",
         "projectName": "DS",
-        "projectPath": "C:\\Users\\Lukaz\\source\\repos\\DS\\DS.csproj",
+        "projectPath": "C:\\Users\\Lukaz\\Documents\\GitHub\\LinkedList\\LinkedList\\DS.csproj",
         "packagesPath": "C:\\Users\\Lukaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukaz\\source\\repos\\DS\\obj\\",
+        "outputPath": "C:\\Users\\Lukaz\\Documents\\GitHub\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
