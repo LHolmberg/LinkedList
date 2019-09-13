@@ -77,7 +77,7 @@ class LinkedList<T> : IEnumerable
         input.ElementAt(m + 1).val = last; 
     }
 
-    public void ReverseList()
+    public void Reverse()
     {
         ListPart<T> prev, cur, next;
         prev = null;
